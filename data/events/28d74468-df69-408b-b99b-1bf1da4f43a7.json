@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "a46a5a4b-78af-4adb-8a7d-6dcedadc6259": {
+      "label": "Language_Tyler_NA_06102024",
+      "is_offline": false,
+      "file_url": "https://ia600305.us.archive.org/30/items/na-06102024/Language_Tyler_NA_06102024.m4a",
+      "duration": 1778,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Tyler_NA_06102024",
+  "created_at": "2024-12-08T23:51:19.398Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-08T23:51:19.398Z",
+  "updated_by": "speaktexan"
+}
