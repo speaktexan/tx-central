@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "332d88ea-d7f3-4d30-863f-527411dea11b": {
+      "label": "Language_Round_Rock_ZK_06172024",
+      "is_offline": false,
+      "file_url": "https://ia600303.us.archive.org/35/items/zk-06172024/Language_Round%20Rock_ZK_06172024.m4a",
+      "duration": 927,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Round_Rock_ZK_06172024",
+  "created_at": "2024-12-08T23:30:20.414Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-08T23:30:20.414Z",
+  "updated_by": "speaktexan"
+}
