@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "ea72fd96-82dd-4e11-87ff-0121744d13f9": {
+      "label": "Language_Tyler_RL_07112024",
+      "is_offline": false,
+      "file_url": "https://ia600105.us.archive.org/34/items/rl-07112024/Language_Tyler_RL_07112024.m4a",
+      "duration": 1820,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Tyler_RL_07112024",
+  "created_at": "2024-12-08T23:57:02.346Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-08T23:57:02.346Z",
+  "updated_by": "speaktexan"
+}
