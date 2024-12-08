@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "89c85a72-e6e3-433b-9c52-85d78e8ef303": {
+      "label": "Language_San_Antonio_SS_06152024",
+      "is_offline": false,
+      "file_url": "https://ia601502.us.archive.org/4/items/ss-06152024/Language_San%20Antonio_SS_06152024.m4a",
+      "duration": 2247,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_San_Antonio_SS_06152024",
+  "created_at": "2024-12-08T23:38:46.627Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-08T23:38:46.627Z",
+  "updated_by": "speaktexan"
+}
