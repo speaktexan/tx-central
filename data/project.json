@@ -1,1 +1,78 @@
-{"publish":{"publish_pages_app":false,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"speaktexan","is_private":false,"title":"Central Texas","description":"Language and Culture interviews with Central Texas English speakers.","language":"en","slug":"tx-central","creator":"speaktexan","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[{"login_name":"bayleeross","avatar_url":"https://avatars.githubusercontent.com/u/186106695?v=4","admin":false},{"login_name":"JennSmith26","avatar_url":"https://avatars.githubusercontent.com/u/186106573?v=4","admin":false}],"tags":{"tagGroups":[{"color":"#ADFFD9","category":"Speaker"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"Speaker","tag":"Interviewer"},{"category":"Speaker","tag":"Participant"},{"category":"Speaker","tag":"Participant 1"},{"category":"Speaker","tag":"Participant 2"},{"category":"Speaker","tag":"Other"},{"category":"_uncategorized_","tag":"Transcription, Interviewer"},{"category":"_uncategorized_","tag":"Transcription, Participant"}]},"created_at":"2024-11-22T17:41:13.808Z","updated_at":"2025-02-13T14:31:12.103Z","generate_pages_site":false},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "speaktexan",
+    "is_private": false,
+    "title": "Central Texas",
+    "description": "Language and Culture interviews with Central Texas English speakers.",
+    "language": "en",
+    "slug": "tx-central",
+    "creator": "speaktexan",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "bayleeross",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186106695?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "JennSmith26",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186106573?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#ADFFD9",
+          "category": "Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant 1"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant 2"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Other"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ]
+    },
+    "created_at": "2024-11-22T17:41:13.808Z",
+    "updated_at": "2025-02-13T14:31:20.426Z",
+    "generate_pages_site": false
+  },
+  "is_private": false
+}
