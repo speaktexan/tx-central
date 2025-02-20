@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "a8d90397-4c18-4123-ba70-5a1df9a32ce9": {
+      "label": "Language_Jarrell_AM_06082024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/am-06082024/AM_06082024.m4a",
+      "duration": 1078,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Jarrell_AM_06082024",
+  "created_at": "2025-02-20T19:34:26.123Z",
+  "created_by": "squant18",
+  "updated_at": "2025-02-20T19:34:26.123Z",
+  "updated_by": "squant18"
+}
