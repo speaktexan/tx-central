@@ -3,7 +3,7 @@
     "431490c6-cde9-4c01-a9c9-4f3e6ea7cc60": {
       "label": "Language_Austin_IS_06202024",
       "is_offline": false,
-      "file_url": "https://ia800108.us.archive.org/31/items/is-06202024/IS_06202024.m4a",
+      "file_url": "https://archive.org/download/is-06202024/Language_Austin_IS_06202024.mp3",
       "duration": 1485,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Austin_IS_06202024",
   "created_at": "2025-02-13T14:29:58.120Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-13T14:29:58.120Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-16T16:48:04.267Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "431490c6-cde9-4c01-a9c9-4f3e6ea7cc60"
+  ]
 }
