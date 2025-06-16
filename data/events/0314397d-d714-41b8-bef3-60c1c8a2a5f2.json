@@ -3,7 +3,7 @@
     "c3ec0859-6374-42b6-b4ea-58bf5e13338f": {
       "label": "Language_Boerne_JF-07122024",
       "is_offline": false,
-      "file_url": "https://ia800407.us.archive.org/18/items/jf-07122024/JF_07122024.m4a",
+      "file_url": "https://archive.org/download/jf-07122024/Language_Boerne_JF_07122024.mp3",
       "duration": 1907,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Boerne_JF-07122024",
   "created_at": "2025-02-13T15:01:52.995Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-13T15:01:52.995Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-16T23:01:55.064Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "c3ec0859-6374-42b6-b4ea-58bf5e13338f"
+  ]
 }
