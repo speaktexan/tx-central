@@ -3,7 +3,7 @@
     "4544577c-d3c0-4891-a9be-a544053f5753": {
       "label": "Language_Austin_MN_07042024",
       "is_offline": false,
-      "file_url": "https://ia800406.us.archive.org/25/items/mn-07042024/MN_07042024.m4a",
+      "file_url": "https://archive.org/download/mn-07042024/Language_Austin_MN_07042024.mp3",
       "duration": 1597,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Austin_MN_07042024",
   "created_at": "2025-02-13T14:33:38.325Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-13T14:33:38.325Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-16T20:14:15.155Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "4544577c-d3c0-4891-a9be-a544053f5753"
+  ]
 }
