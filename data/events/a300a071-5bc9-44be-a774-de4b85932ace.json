@@ -3,7 +3,7 @@
     "793d3beb-768c-41c8-8464-8672f83e5e74": {
       "label": "Language_Cedar Park_NP_07092024",
       "is_offline": false,
-      "file_url": "https://ia800107.us.archive.org/19/items/np-07092024/NP_07092024.m4a",
+      "file_url": "https://archive.org/download/np-07092024/Language_Cedar%20Park_NP_07092024.mp3",
       "duration": 1370,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Cedar Park_NP_07092024",
   "created_at": "2025-02-13T15:22:17.502Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-13T15:22:17.502Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-17T06:27:05.594Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "793d3beb-768c-41c8-8464-8672f83e5e74"
+  ]
 }
