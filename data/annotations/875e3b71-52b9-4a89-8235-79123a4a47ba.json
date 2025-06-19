@@ -1,5 +1,1140 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, this is Devin Nguyen. Today is June 19. And I'm here in Pflugerville, Texas with Bill Combes, one of our community members at Red Rock liberal area. Before we begin, I'd like to get verbal consent for the form that we went over. Can you please say I consent to being interviewed, and audio recorded for this study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "12990633-11f7-4b6b-b328-a5fba463fcd6"
+    },
+    {
+      "start_time": 20,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I consent to being recorded and audio for this interview."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "84ffea25-ab4e-479d-84b2-3483613ca844"
+    },
+    {
+      "start_time": 26,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds great. Perfect. To get started, can you kind of tell me about what's brought you to this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ae06d714-55aa-4fed-b3be-81611211d0c9"
+    },
+    {
+      "start_time": 33,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. I like to say coming to Austin was a happy accident. I was I joined the Air Force National Guard in New York when I was 21. And while I was in weather forecasting school, my my home unit where I was supposed to be assigned to online island where I grew up, they shut their weather portion down. So they needed to relocate me. I ended up I was in school with two guys that went to K u. And I decided, I'm going to move to Kansas because they had an opening there. So I relocated from New York to Kansas, met my future business partner in Kansas. And he was already planning on moving to Austin when he graduated. So we connected and this was over no time for social. This is actually for a private weather forecasting company that I started. So at 2425 I picked up. And then, basically, Austin Round Rock. I was in Austin for a little bit, but they had basically been in Round Rock for the last 25, almost 30 years. Gotcha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "344c0751-bc96-4d1e-b6e6-843a0719e588"
+    },
+    {
+      "start_time": 117,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. That sounds really cool. Can you kind of tell me a bit more about like community that you live in? And how you describe Round Rock to people that don't really live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1a854674-d525-49e7-a693-ff21bae60276"
+    },
+    {
+      "start_time": 128,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Yeah. I think round rock over the years has grown into just a phenomenal community. I, I it was appealing to me just because it wasn't, I worked in downtown Austin, but wasn't really feeling moving into like the city when I worked down there. So I ended up relocating up here, right after I moved into into Austin and ended up having a business, my business in the Round Rock community. So I think the things that appealed to me was it was a small town when I moved here, so they were probably 30,000 people. And it just seemed like it had everything that I really was looking for as far as like the parks and like I like to fish. So I would come out to Old Settlers Park which by the way, I'm within walking distance now. So I can walk out my front yard and walk across the street and be at the park. So that's always fun. You know, at the time, I wasn't really looking at like school districts and stuff just because I wasn't married, didn't have kids, I was young. But you know, I had a duplex and then I moved into a house over by Stoney Point High School. So it was a it was a brand new community moved in got to know my neighbors and just felt really, really good about being in Round Rock and decided, hey, this is where I'm going to stay. So I think just the appeal of just the small town at the time, obviously now we're growing and growing a lot faster than probably a lot of people want. But I already knew that was coming because I follow the politics a lot. So I already knew Hey, Round Rock is going to be 220,000 people at some point. So but that was the initial probably the initial appeal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "6b9f6f02-b3fc-4dbd-9461-dd44469cab34"
+    },
+    {
+      "start_time": 236,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kind of along with that vein of change that you've seen within Round Rock, what do you kind of consider as the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8a39ba20-065a-44a2-a59f-952dc082fbcf"
+    },
+    {
+      "start_time": 247,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To me, the main strength is the diversity of the people that are here. I think you can find people from all walks of life I mentioned Old Settlers Park. You know, you go out to Old Settlers park on a nice fall day or a nice spring day where you know, you're gonna have a lot of people out there. You probably have people from 2530 Different countries like literally all mingling together. Everybody's got you know, their own different things they do. But the diversity I think, to me has been one of the things that I think is a highlight of having different cultures and different people here. So my son plays basketball, for instance, and both of his good buddies and basketball in fact, they just came back a few minutes ago from their camp at Stoney point. Both of his buddies are both from India. So one of the kids is from Northern India the other day Kids from southern India are good friends with both of their dads now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "7848ca80-7035-4ffa-abff-8b5b1bdd21b6"
+    },
+    {
+      "start_time": 320,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that sounds great! Thank you. Um, on kind of the other prong of that question, what do you sort of identify as some of the weaknesses of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3f20494e-fec4-41d5-99b9-1f9af187ca3f"
+    },
+    {
+      "start_time": 333,
+      "end_time": 513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think some of the weaknesses is, you know, some of the infrastructure has had challenges, like catching up. And I realized that, you know, it takes a lot of planning, and I don't envy, you know, the I know, the Director of Transportation, and so a lot of the, you know, city council members, so I realize they have a big challenge ahead of them. I do feel like some of the pre planning and planning may not be as forward looking as possible. So I'll give you an example. You know, as I mentioned, when I moved here, I would, you know, I attend city council, and I would sort of see some of the things that are going on in the community. And there's always been this push of like, Hey, we're going to build out Round Rock until there's houses and park space and business, right. So you can almost expect all usable land at some point to become used. When you think about that, though, the road planning needs to be done with anticipation of, we may need to widen these roads. So there was a huge project that happened on University Boulevard, right? So they built University Boulevard. And it took him five years to just basically relocate the utilities for a two mile stretch to widen the road. If you already know you're going to be widening a road at some point in time in the future, why not just start the utilities. In the end, I again, I may be completely off here. I don't know anything about utilities, but I know that it took a hell of a long time to relocate those utilities. So I almost feel like it's not done on purpose. But you know, if you don't relocate the utilities at some point, you need to hire somebody which keeps people busy. It's still if you built all the utilities far out, so you could just extend the road later. Nobody would have a job to relocate the utilities. I don't know it's just a weird like, thing that kind of goes through my head as I as I observe things, but"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "8ea22603-8ea5-4362-9594-24e6c0574384"
+    },
+    {
+      "start_time": 513,
+      "end_time": 527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continuing with that, I'd like to kind of pick up with this idea of what you do for work, if possible, like, if you could tell me kind of along the lines of like what you typically like, what's your typical workday? What do you consider your role in this community? I'd say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "67dd738b-01f6-495c-b108-dc62bf075b5e"
+    },
+    {
+      "start_time": 528,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure yeah. So work day for me is-- we are a digital marketing agency. A little bit different than hot dog marketing, we focus only on social media, and focus on Google AdWords, but mainly Facebook ads. So our typical client would be a roofing company, because that's the world that I lived in before when I was when I owned my Weather Company. However, we do work with some nonprofits throughout the area. producing content and also running ads. My typical day is wake up, look at all the alerts for all the various clients we have get into my planning schedule for the day, do I have any sales calls I need to make? Do I have any follow up I need to make, obviously dealing with issues if there's any particular issues with Facebook, or the ads account I need to deal with. We do have a team meeting at 245. Every day, we're mainly remote. So we meet up every day at 245. To go over the day. We use Google meet a lot. So we're constantly Google meet Google Chat, within within the Google platform. But that would be my main day is just focused all on client work and sales calls. And then I've got some administrative stuff I need to do I oversee almost the whole company. So and then we're small, we're just a three person agency. So whether it's processing client payments, dealing with any of that would be my day in and day out. Community wise, I'm on the board of the YMCA. So I actually just had a meeting with them this morning. And I'm also on the board of directors for the ramrod chamber similar to Jessica Jessica is the president of the board. So I've been on the board now for like six years now. And just contribute as much as I can. I'm on the entrepreneurship Committee, which I've been on for a while Jessica has been on that before and has actually headed that up before. So I do a lot of stuff having to do with entrepreneurship, help run 1 Million Cups, which is an event we have, try to attend all the entrepreneurship related events for the chamber and just be as involved as I can."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "c02d940b-9131-406e-abf0-1a321784860b"
+    },
+    {
+      "start_time": 661,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how do your connections influence like your work as a marketing agency?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "03792644-3b35-446e-b391-019b09928157"
+    },
+    {
+      "start_time": 670,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I would say my connections are very, very important. The reason I started no time for social was because of all my connections that I had. So when I when I left my weather company, and I did that for various reasons, but I departed my weather company like around October 2011. And it was a shock to a lot of people because I had 1000s of connections in the roofing industry. And when you have that many people that are following you on Facebook, and you know you're managing a page on Facebook running ads just come full on connected. That that turns into something. So what it turned into was a bunch of roofers reaching out to me saying, Hey, Bill, I've got no time for this social media stuff. I didn't even have a company name until I heard that 100 times. Right. So then I named the company no time for social. And all of those connections led me into immediately started my company and beginning to connect with people and say, Okay, you're a roofer, you're an Arkansas, you need help. Here's what we charge, let's go locally here, same type of thing, right. So I've run several campaigns for city council members and for school board members on Facebook for when they're running for office. So obviously, that connection with the various city council members, the mayor, different people I'm connected with lead to Oh, Bill runs a digital marketing agency that runs Facebook, let me put you in touch with him. So my name being out there has certainly helped with I know a person he could help you. I usually I'm very good at speaking with people. And I'm very try to be as helpful as I can. So I just had a chamber member reach out and he needs help with Google ads. So I'm gonna meet with him on Monday in downtown Round Rock, sit down, go through, you know, whatever I can do to help him. A little bit of goodwill goes a long way. So I do sometimes, obviously, I tried to charge for my time when I can, but I usually will speak with anybody and give him an hour of my time just to sort of help out and I feel like that has come full circle so many times. So that's that's basically how my connections in the in the city have worked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "fce6370b-e1f4-469e-a478-cb9f022c4bbd"
+    },
+    {
+      "start_time": 806,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gotcha. And what aspects of that job that are kind of related to connection bring you the most satisfaction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "11d3f940-b594-440b-af12-9360ed4e1dd7"
+    },
+    {
+      "start_time": 816,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When, when somebody hires us, and we see really good results from the work that we're doing, that's huge. So we had one of our clients is one of the is a nonprofit locally here, and they had trouble hiring. So we ran some hiring ads on Facebook. And I think we got like 50 applications, and they hired like five or six people off of those applications. Well, that's a good feeling, because they may not have the wherewithal or the infrastructure to go out and build, run and manage these ads. Because the Facebook Ads Manager is a mess, and I cannot stand it, but I live in it. And I've been doing it for 10 years. So we're good at it, right. So when you're good at something, even if you don't like it, you can bring value to other people by helping them out. And that's really where I find the most kind of joy from the business side of things is seeing the success of what we do transpire into that business. So and that happens not only locally here, but even with our clients throughout the United States. I mentioned roofing, we generate leads for roofers and sometimes hand over fist for like a third of what they would pay on Google. So that that actually is really cool to see where they're getting, you know, a $20,000 roofing job for a $50 lead. So that's, that's really where the most joy comes from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "5982148f-b927-4db1-9b9e-72b4a7691a76"
+    },
+    {
+      "start_time": 900,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are some kind of challenges that you face along that line of work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0a5f3aba-2c47-4c91-ba0b-6d3a8ddad0f2"
+    },
+    {
+      "start_time": 906,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The biggest challenge is the Facebook Ads Manager changing so much. And the fact that they're unfortunately, their support team does not provide the support needed for the challenges that we face. So if there are any major issues that you're dealing with, and we are dealing with one right now we're up a large bank that we work with their Facebook page was taken down because somebody reported their page as a duplicate page or something. So their AI picked up on it, and just immediately banned the page. We've been working, trying to work with Facebook for one month on like, with like five different tickets open, and there's no way to get them to fix it. And no one really cares. And I think when you don't care, it's a big problem. And, you know, I'm not saying they don't care that the page is down, but there's not enough care to get the resolution come to the table with you know, any sense of urgency. You know, it's a major bank, and their page has been down for a month and the bank is their hands are tied. So if that happens to my company, or any of my other businesses that I'm working with, I don't I my sense of I guess my my feeling is that I will not get the support. So I'm losing a little bit of faith in that. So I it is what it is. I mean, like I said, we've been doing this for 10 years, and I hope I can continue running ads for clients for the next five to six years until I get closer to retirement. But you know, the cards are stacked against us right now, unfortunately. So that's really the biggest challenges in our day, everything else seems to be running smoothly. Obviously getting new clients is always a challenge. And you know, Jessica and I have talked about that over the years. Right? As much as possible. But But yeah, overall, that's the biggest challenge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "e8aafe71-5c67-4d3c-bc5c-b55c61541890"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love that you're able to work around it, though. I appreciate that drive that you have to like keep working. I think that's really admirable. Yeah, and I want to pivot a bit if that's okay with you to kind of talk about more of your experience as a resident in Round Rock, especially for the next set of questions. I'm going to have to read a statement to you and I'd like you to indicate to the extent of your agreement with each statement from just like one to four one being like completely disagree for being completely agree. And then two and three kind of being somewhat disagree and somewhat agree if that middle range."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f90f942d-1c2c-4e24-85a6-dda820510469"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is disagree four is agree. Yes, sir. Okay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1e4a0990-0d67-4090-8ff8-66511bc9f949"
+    },
+    {
+      "start_time": 1062,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and then so our for our first phrase, we have I considered myself to be an American, would you say on a scale from one to four? Where do you live with that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5d7ae071-a1ba-41f8-91aa-ef699310c51e"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is agree, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "2a3abe32-e084-435d-beaa-1d418aa76b0b"
+    },
+    {
+      "start_time": 1073,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is disagree. And then four is agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "df68d8d3-49ce-4487-858a-112adcfb3470"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "82c2ebd1-2c1e-4780-9c0c-b5a808bfa3b6"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale. How would you write the following statement? I consider myself to be a Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "edac396c-9473-44a4-956b-44ea67b0a754"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would say four at this point, even though I come from New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "6cdbe9f3-cfa8-4847-91c6-85421f046079"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is which of the following three statements do you kind of agree with or Kindle most strongly? I am an American first and a Texan. Second, I'm a Texan first an American second, or being texted in America and are equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "966b95ff-0fdb-41d6-8806-3803abff9f9b"
+    },
+    {
+      "start_time": 1106,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think equally important, and just I do I mean, I do. I love the Whole Texas thing like the fact that we're a big, you know, big, big state, for example, and we're growing and there's a lot of business and industry here and things are, for the most part, doing fairly well, right? Obviously, there's extremes on all kinds of stuff. But I would say for the most part, there's a reason why so many people are moving here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "5d78155e-ffd6-4647-a2c6-9ac9c3f90249"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So back to the one to four scale, the next phrase is to be a true Texan, you must know how to speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b2c37712-810e-40aa-acc5-06215f114aad"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would say one on that. All right. I completely disagree with that. I mean, I think my wife's from Mexico, and she's a dual language teacher in Pflugerville. So"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "36edea0c-d9ac-4a54-a46b-72af166f67f3"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yeah. How about to be a true Texan? You must know how to speak Spanish"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7eb94f54-fb49-4073-800f-ae1c403b99b8"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, I would say I disagree with that. So that would be a one or two? It depends on if one is disagree. I'm sorry. Oh, one. Gotcha. I would say yeah, you don't have to speak Spanish to be a true Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "8e0e21a2-2771-408d-844d-95bf1baf9074"
+    },
+    {
+      "start_time": 1174,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Our next phrase is in my community, you can do everything you want, and get everything you need, even when you don't speak English. I would say for on that. And then finally, in my community, life has been pretty stable over the last 40 years, things haven't changed much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f0833c5b-6d0a-4a53-845a-bcc9f1faa703"
+    },
+    {
+      "start_time": 1194,
+      "end_time": 1198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would say three, all right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "fb6ca1b7-09a4-4430-9f2c-6722524309bb"
+    },
+    {
+      "start_time": 1199,
+      "end_time": 1216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I kind of want to hear more about the community itself. From your perspective. If you don't mind, what are some things that have changed in this community during the last few decades that you've kind of noticed what being here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "65a14555-5db8-44cb-9b58-a2c83381bfe8"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me think about that. Obviously, the growth, so we've gone from 30,000 residents to like 120,000. So when you bring in 90,000 new people, you're going to have a lot of homes being built a lot of apartments being built. So that that leads to a lot more traffic on the roads, which I remember when I first bought my house here and Old Settlers Park, we were the only community out here and it would be a breeze to get here and now it's it's not. So that would probably be one of the biggest things is that the growth has led to a lot of a lot more chaos than probably I want to deal with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "ef3f8fac-004b-4496-82b6-86761d9ced97"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, would you say that this is a good community to live in despite that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8a4283f2-6574-481c-aaa6-622ae6ee7dfc"
+    },
+    {
+      "start_time": 1269,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, 100% Yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "b1afd3e4-0576-4c2f-ae4a-88baf030e580"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Glad to hear it. Yeah, um, let's see. Oh, okay. What is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "08747d58-ca92-40d5-80d4-34679fde1b46"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does it matter if it's college just favorite sports team? Then I'm gonna say the Kansas Jayhawks"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "c18e4877-c5a3-4e39-8899-5a9824456f9d"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. And then how have they been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "18beb9d2-4cac-4507-9e24-759496f3000c"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They normally do very well every year. So they're usually ranked in the top 10 to 15 every year. So it's hard to say KU does bad. However, this year, they did not do well. Before with well, player issues with injuries and yeah, I knew we were going to lose in the tournament pretty quickly. So this this will probably be a little bit of a blip down with hopefully a trajectory of going forward to next season. I think. I think you're on the come up. Yeah, I think we're already preseason ranked like number one or two. So"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "94a7db54-649e-48f2-b450-0ed29720ed24"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have to do chores when you were younger? Or even--What was the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "30ebae4d-60c4-4d23-b00c-70a024eedb58"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably vacuuming the house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "2c223e88-40dc-4567-98ab-5ab251abaff1"
+    },
+    {
+      "start_time": 1353,
+      "end_time": 1358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the chore that you didn't particularly mind doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "634ac7cb-6309-4104-b3db-0a1ab7a64a09"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um I actually liked the outdoor work. So growing up in the northeast, you in the fall you have a lot of leaves that fall. So we actually enjoyed raking the leaves and making big piles as kids right and, and jumping in the leaves. So that was that was kind of fun. I actually didn't mind also shoveling snow. Just because I knew we were gonna we had a snow day right so we weren't gonna go to school. So I'm shoveling snow and having fun. So the outdoor work wasn't wasn't too bad. I didn't mind that at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "44041c26-9f42-459d-8882-3c5905dadaff"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "84b85268-c0f0-4b6e-bc49-fd348cfd85f3"
+    },
+    {
+      "start_time": 1403,
+      "end_time": 1442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, as kids, probably, I think it's I think it's easy. I think it's the adults in depends on if you're single or not. So that could get that could get into all kinds of stuff. Right? So I actually have several friends that are female, but I'm also married. So you got to kind of look at like that, how that how that relationship is, you know, work. So my wife happens to be friends with one of the friends that I've been friends with forever since I moved here. But yeah, I mean, I think, I think perfectly fine for boys and girls to be to be friends with each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "71acf679-9c99-455c-b11e-2e4ecebc8cf9"
+    },
+    {
+      "start_time": 1443,
+      "end_time": 1456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good to hear it. Did you ever tell a story about another person thinking they weren't near you? But then they turned out that they were? Could you kind of tell me about that, if that has happened to you? And if so happened afterwards?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "bd22c0ac-3fed-475a-a4b5-7d04b67fa796"
+    },
+    {
+      "start_time": 1457,
+      "end_time": 1519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can give you that it happens to be that I have done that. And it's not necessarily in person. I actually was planning on texting somebody information about somebody else. And it wasn't it wasn't negative, but it could have been taken in a negative context. And I actually sent the text to the person. And it didn't go over to Well, I imagine though it was. It was just a weird situation. And I, it had to do, I can't remember what it had to do with but I'm still friends with the guy that I sent the text to. But it was it had to do something with business. And it's we're talking like, probably 15 years ago, but I certainly learned my lesson from that. And honestly, it was really probably the only time I mean, certainly we talk to people about different things and situations that come up. And there's always gossip that goes on. But it's rare that I'm speaking about somebody negatively in front in front of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "55c9fed4-2bd3-48e7-845e-3deea2da7935"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's good to hear! A lot of people think this is kind of our last year as question. A lot of people think that the 1990s as this kind of golden decade of pop music. Do you agree? And if not, what do you consider as the best decade of pop music? 80s Interesting. Okay, just 10 years prior, is there any reason why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e2b606f1-94bd-42c5-a3b5-b9a957192d8b"
+    },
+    {
+      "start_time": 1544,
+      "end_time": 1624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I think the longevity on 80s. Music is is so it's like cemented my son is 14 and he literally has probably he knows all the ad songs. He's walking around the house, Everybody Wants to Rule the World singing that. Michael Jackson. I feel like that time period like the late 70s, when a lot of the one hit wonders came out and there was experimentation with and I used to DJ, by the way. So in New York. So I very familiar with tons of different kinds of music, right. And we didn't have any country in New York when I grew up. So I had no idea what country was until I moved to Kansas. But you know, the electronic music like Herbie Hancock and all the hip hop that came out in Long Island, New York and the Bronx, like, I feel like that timeframe, there was so much experimentation to like, go from rock and roll with the 70s and disco into like, all this kind of music. I feel like it just it changed music. I think the 80s did. And then I feel like the 90s was was good. But it's sort of leveled out a little bit. And there was maybe level less one hit wonders going on, and have these like one off songs that were really exciting. And so that's my opinion on music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "6be1118f-3a4d-4503-b1bd-caa897fac8d9"
+    },
+    {
+      "start_time": 1625,
+      "end_time": 1679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, sounds very valid very. Well, thank you so much for your answers. I really appreciate you taking the time to talk with me. If you have the time. I do have a request. I know we're a bit short on the Zoom time. So totally fine. If not we optional. But component of the overarching reach your question throughout the whole Texas program is kind of about the linguistic changes across Texas. And so this should really only take a couple of minutes. But read this passage just so we could have your voice on recording. We could look into kind of the linguistic aspects of how your I guess voice in comparison to others in Texas? Oh, maybe not. Because I'm on let me send in the chat. So perhaps not because it's a bit too long. So we might have a pass on that. But nonetheless, I really appreciate you for taking time to see me today. Thank you so much for your answers. I just like really it's really helpful. Thank you so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c89945a3-7f60-4d7b-8fc2-5b85d71279ba"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm glad we got to spend some time together. Hopefully my answers helped and for sure. Hope to hear from you again soon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker"
+        }
+      ],
+      "uuid": "75cea018-5dd5-4334-8265-a3b07872f069"
+    }
+  ],
   "set": "Default",
   "event_id": "dd2048f7-640f-4f33-ba81-d3cd038e0f81",
   "source_id": "d9760f3d-531e-4a12-b37f-7f1b7b5abfac"
