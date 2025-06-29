@@ -3,7 +3,7 @@
     "89c85a72-e6e3-433b-9c52-85d78e8ef303": {
       "label": "Language_San_Antonio_SS_06152024",
       "is_offline": false,
-      "file_url": "https://ia601502.us.archive.org/4/items/ss-06152024/Language_San%20Antonio_SS_06152024.m4a",
+      "file_url": "https://archive.org/download/ss-06152024/SS_06152024.mp3",
       "duration": 2247,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_San_Antonio_SS_06152024",
   "created_at": "2024-12-08T23:38:46.627Z",
   "created_by": "speaktexan",
-  "updated_at": "2024-12-08T23:38:46.627Z",
-  "updated_by": "speaktexan"
+  "updated_at": "2025-06-29T21:49:08.016Z",
+  "updated_by": "squant18",
+  "av_file_order": [
+    "89c85a72-e6e3-433b-9c52-85d78e8ef303"
+  ]
 }
